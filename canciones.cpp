@@ -62,7 +62,7 @@ void menu(queue <Song> happy, queue <Song> sad, queue <Song> snooze) {
 
             cout << "\n||| Usted cuenta con tres colas, proceda a elegir a cual quiere ingresar la cancion |||" << endl << endl;
             cout << "1. Cola feliz :)" << endl;
-            cout << "1. Cola triste :(" << endl;
+            cout << "2. Cola triste :(" << endl;
             cout << "3. Cola para mimir zZz" << endl;
             cout << "\nDigite su opcion: ";
             cin >> op;
